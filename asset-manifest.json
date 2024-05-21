@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ra-world-clock/static/css/main.24959e29.css",
+    "main.js": "/ra-world-clock/static/js/main.3e8c6be7.js",
+    "static/media/ios_clock.svg": "/ra-world-clock/static/media/ios_clock.b71b09ba4c8834f4e71e.svg",
+    "index.html": "/ra-world-clock/index.html",
+    "main.24959e29.css.map": "/ra-world-clock/static/css/main.24959e29.css.map",
+    "main.3e8c6be7.js.map": "/ra-world-clock/static/js/main.3e8c6be7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24959e29.css",
+    "static/js/main.3e8c6be7.js"
+  ]
+}
